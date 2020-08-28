@@ -147,7 +147,7 @@ function _typeof(obj) { "@babel/helpers - typeof"; if (typeof Symbol === "functi
 
 
 var onClickLogo = function onClickLogo() {
-  window.location = 'https://github.io/dridrin/dridrin-blocks';
+  window.location = 'https://github.com/dridrin/dridrin-blocks';
 };
 
 var handleTelemetryModalCancel = function handleTelemetryModalCancel() {
