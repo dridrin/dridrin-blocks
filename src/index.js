@@ -668,7 +668,7 @@ class DriDrinBlocks {
 
   setTextField(args) {
     // console.log('setTextField', args);
-    this.coreSdl.setTextField(Number(args.TEXTIELD), args.TEXT);
+    this.coreSdl.setTextField(Number(args.TEXT_FIELD), args.TEXT);
   }
 
   isReady() {
